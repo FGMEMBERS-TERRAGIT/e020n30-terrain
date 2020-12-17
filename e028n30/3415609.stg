@@ -1,0 +1,5 @@
+OBJECT_BASE 3415609.btg
+OBJECT HEAL.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 28.448861 30.935627 45.7 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 28.475712 30.916161 44.3 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 28.462504 30.925521 45.0 0.00
